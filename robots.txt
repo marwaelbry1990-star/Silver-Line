@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://silver-line.pages.dev/sitemap.xml
